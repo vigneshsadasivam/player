@@ -1,4 +1,4 @@
-a=int(input("enter a number"))
+a=int(input("enter a numbers"))
 l=[]
 for i in range(0,a):
     b=input("enter string")
